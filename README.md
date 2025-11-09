@@ -30,6 +30,6 @@ Git training repo
 
 ---
 
-![питонист](pjpg160x160.png)
+![питонист](https://www.meme-arsenal.com/memes/d73e87607fbd0f5d3f47323dd5ff761d.jpg)
 
 # **ZELIBOBA**
