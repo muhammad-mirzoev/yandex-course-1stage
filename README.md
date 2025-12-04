@@ -1,6 +1,10 @@
-Git training repo
+Yandex Course - 1. stage
 
 ### Действия:
+
+Это гововые задачки из курса Yandex Python 2024-2025:
+
+---
 
 **Установи Git:**
 
